@@ -1,0 +1,5 @@
+class list:
+
+    l= ['vinay', 'dewar',12,22.0,None,True,False]
+    l.append('1234')
+    print(l)
